@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "d3": "5.15.0",
+    "lodash": "4.17.15",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "3.3.0"
+  },
+  "keywords": [],
+  "name": "feature-importance-dashboard",
+  "description": ""
+}
